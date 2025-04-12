@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# 벡터 저장소 및 데이터베이스 파일
+vector_store/
+*.sqlite3
+chroma.sqlite3
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+
+# 개발 환경 설정 파일
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 환경 변수 파일
+.env
+.env.local
+
+# 캐시 파일
+.cache/
+.pytest_cache/
+
+# 데이터 파일
+/docs/*.txt

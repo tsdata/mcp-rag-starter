@@ -1,0 +1,15 @@
+[project]
+name = "mcp-rag-starter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain>=0.3.23",
+    "langchain-chroma>=0.2.2",
+    "langchain-community>=0.3.21",
+    "langchain-huggingface>=0.1.2",
+    "langchain-openai>=0.3.12",
+    "langchain-text-splitters>=0.3.8",
+    "mcp[cli]>=1.6.0",
+]
