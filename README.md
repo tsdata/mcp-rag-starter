@@ -58,7 +58,7 @@
 ### 서버 실행
 
 ```bash
-python main.py
+uv python main.py
 ```
 
 - 실행하면 기본적으로 `http://127.0.0.1:8000`에서 MCP 서버가 시작됩니다.
