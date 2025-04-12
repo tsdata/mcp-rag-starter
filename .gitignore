@@ -40,3 +40,4 @@ chroma.sqlite3
 
 # 데이터 파일
 /docs/*.txt
+!/docs/llms-full.txt
