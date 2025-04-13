@@ -1,4 +1,4 @@
-# MCP RAG 스타터 프로젝트
+# MCP RAG 스타터 Kit
 
 이 프로젝트는 MCP(Model Context Protocol)를 사용하여 문서 검색 및 처리를 위한 RAG(Retrieval-Augmented Generation) 서버를 구현한 스타터 템플릿입니다.
 
